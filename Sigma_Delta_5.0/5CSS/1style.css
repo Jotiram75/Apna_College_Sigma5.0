@@ -1,0 +1,22 @@
+*{
+    color: blueviolet;
+    
+}
+
+h1{
+    color:red;
+}
+
+h3{
+    color: palevioletred;
+    text-decoration: underline;
+}
+
+#main{
+    background-color: bisque;
+}
+
+.span{
+    color: aqua;
+    
+}

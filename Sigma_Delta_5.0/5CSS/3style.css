@@ -1,0 +1,43 @@
+/* *{
+    color: blueviolet;
+    
+}
+
+h1{
+    color:red;
+}
+
+h3{
+    color: palevioletred;
+    text-decoration: underline;
+}
+
+#main{
+    background-color: bisque;
+}
+
+.span{
+    color: aqua;
+    
+} */
+
+
+*{
+    background-color: antiquewhite;
+}
+nav a{
+    color: brown;
+}
+button{
+    background-color: green;
+    color: white;
+}
+
+ p+ h3{
+    background-color: yellow;
+}
+
+span>button{
+    background-color: yellow;
+    color: black;
+}
